@@ -7,7 +7,7 @@ class GameList extends Component {
       <div className="AppList">
         <ul>
             <li>
-                <a href="targetballhero.com">Target Ball Herp</a>
+                <a href="https://www.targetballhero.com">Target Ball Hero</a>
             </li>
         </ul>
       </div>
